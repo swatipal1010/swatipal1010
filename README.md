@@ -1,3 +1,4 @@
+![logo](https://github.com/swatipal1010/swatipal1010/blob/master/GitHub_Banner.png)
 <h1 align="center">Hi 👋, I'm Swati Pal</h1>
 <h3 align="center">A passionate learner from India.</h3>
 

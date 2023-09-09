@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatipal1010&label=Profile%20views&color=0e75b6&style=flat" alt="swatipal1010" /> </p>
 
-- 🌱 I’m currently learning **DevOps and Cloud Computing.**
+- 🌱 I’m currently learning **DevOps, Cloud Computing and Frontend Development.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/swati-pal-42b592243**
 

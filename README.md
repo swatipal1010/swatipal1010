@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps, Cloud Computing and Frontend Development.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/swati-pal-42b592243**
+- 📫 How to reach me **http://www.linkedin.com/in/swati-pal-upes**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 

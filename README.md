@@ -1,7 +1,7 @@
 ![logo](https://github.com/swatipal1010/swatipal1010/blob/master/GitHub_Banner.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>Swati Pal here</h1>
-<h3 align="center">Learning the technology.</h3>
+<h3 align="center">Learning tech like a <strong>Kaizen</strong> maestro!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatipal1010&label=Profile%20views&color=0e75b6&style=flat" alt="swatipal1010" /> </p>
 

@@ -1,4 +1,4 @@
-![logo](https://github.com/swatipal1010/swatipal1010/blob/master/GitHub_Banner.png)
+![logo](https://github.com/swatipal1010/swatipal1010/blob/master/NewBanner.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" height="45" width="45"/>Swati Pal here</h1>
 <h3 align="center">Learning tech like a <strong>Kaizen</strong> maestro!!</h3>

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **http://www.linkedin.com/in/swati-pal-upes**
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
+- ⚡ Fun fact **Oops!! I have got no fun facts to share today.**
 
 <img align="right" height="200" src="![image](https://github.com/swatipal1010/swatipal1010/assets/110754474/d416d05d-11ab-435f-96bf-0e28a9b8c282)" />
 
